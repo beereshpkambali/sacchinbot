@@ -747,13 +747,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/+hHun54O4V0U2YzE1'),
-            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/About_Mr_Abnormal')
+            InlineKeyboardButton('💠 GᏒԾUᎮ 💠', url='https://t.me/urssacchin'),
+            InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/KFI_OFFICIAL')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/@Ranibennur_fighting_sheeps')
+            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/@URSSACCHIN?si=i3nfx_CriNiMFkdW')
         ]]
         reply1 = await query.message.reply_text(
             text="▢▢▢▢▢"
